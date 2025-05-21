@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+openrobotics.egg-info/PKG-INFO
+openrobotics.egg-info/SOURCES.txt
+openrobotics.egg-info/dependency_links.txt
+openrobotics.egg-info/entry_points.txt
+openrobotics.egg-info/requires.txt
+openrobotics.egg-info/top_level.txt
